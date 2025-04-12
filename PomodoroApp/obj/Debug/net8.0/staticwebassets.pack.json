@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\images\\image1.webp",
+      "PackagePath": "staticwebassets\\images\\image1.webp"
+    },
+    {
       "Id": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\js\\timer.js",
       "PackagePath": "staticwebassets\\js\\timer.js"
     },

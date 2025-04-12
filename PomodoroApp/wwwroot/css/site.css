@@ -31,10 +31,10 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 1.5rem;
+    padding: 0 1rem;
 }
 
-.navbar-brand {
+.navbar-brand{
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary-color);
@@ -93,7 +93,7 @@ main {
     max-width: 600px;
     margin: 0 auto;
     text-align: center;
-    padding: 2rem;
+    padding: 1rem;
     background-color: white;
     border-radius: 15px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -386,3 +386,4 @@ main {
 .brand-subtitle {
     margin-bottom: 2.5rem;
 }
+

@@ -1,9 +1,11 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PomodoroApp.Models;
 
 namespace PomodoroApp.Controllers;
 
+[Authorize]
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
@@ -18,7 +20,11 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult About()
+    {
+        return View();
+    }
+    public IActionResult WhatIsPomodoro()
     {
         return View();
     }

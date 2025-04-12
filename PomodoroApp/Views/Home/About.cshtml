@@ -1,0 +1,206 @@
+﻿@{
+    ViewData["Title"] = "About PomodoroPro";
+}
+
+<div class="about-container">
+    <div class="about-header">
+        <h1>About PomodoroPro</h1>
+        <p class="lead">Revolutionizing Productivity!</p>
+    </div>
+
+    <div class="about-content">
+        <div class="about-card">
+            <div class="icon-container">
+                <i class="fas fa-clock"></i>
+            </div>
+            <h2>Our Mission</h2>
+            <p>
+                Help individuals and teams achieve peak productivity through science-backed time management techniques.
+                We believe in working smarter, not harder.
+            </p>
+        </div>
+
+        <div class="about-card">
+            <div class="icon-container">
+                <i class="fas fa-brain"></i>
+            </div>
+            <h2>The Science</h2>
+            <p>
+                Using the proven Pomodoro Technique® - 25 minutes of focused work followed by 5 minute breaks.
+                Optimized through cognitive research for maximum efficiency.
+            </p>
+        </div>
+
+        <div class="about-card">
+            <div class="icon-container">
+                <i class="fas fa-chart-line"></i>
+            </div>
+            <h2>Features</h2>
+            <ul class="feature-list">
+                <li>Smart Session Tracking</li>
+                <li>Productivity Analytics</li>
+                <li>Cross-Device Sync</li>
+                <li>Customizable Intervals</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="cta-section">
+        <h2>Ready to Transform Your Workflow?</h2>
+        <a asp-controller="Home" asp-action="Index" class="cta-button">
+            Start Your Journey Now
+            <i class="fas fa-arrow-right"></i>
+        </a>
+    </div>
+</div>
+
+<style>
+    .about-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 3rem 2rem;
+    }
+
+    .about-header {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+    .about-header h1 {
+        color: #e74c3c;
+        font-size: 2.8rem;
+        margin-bottom: 1rem;
+    }
+
+    .about-header .lead {
+        color: #666;
+        font-size: 1.2rem;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .about-content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 2rem;
+        margin: 3rem 0;
+    }
+
+    .about-card {
+        background: white;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        text-align: center;
+        transition: transform 0.3s ease;
+    }
+
+    .about-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .icon-container {
+        width: 60px;
+        height: 60px;
+        background: #fce4e1;
+        border-radius: 50%;
+        margin: 0 auto 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .icon-container i {
+        color: #e74c3c;
+        font-size: 1.5rem;
+    }
+
+    .feature-list {
+        list-style: none;
+        padding: 0;
+        text-align: left;
+    }
+
+    .feature-list li {
+        padding: 0.2rem 0;
+        border-bottom: 1px solid #eee;
+    }
+
+    .feature-list li:last-child {
+        border-bottom: none;
+    }
+
+    .team-section {
+        margin: 5rem 0;
+        text-align: center;
+    }
+
+    .team-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .team-member {
+        padding: 1.5rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    }
+
+    .member-photo {
+        width: 120px;
+        height: 120px;
+        background: #f1f1f1;
+        border-radius: 50%;
+        margin: 0 auto 1rem;
+    }
+
+    .cta-section {
+        text-align: center;
+        padding: 2rem;
+        background: #f8f9fa;
+        border-radius: 15px;
+        margin-top: 2rem;
+    }
+
+    .cta-button {
+        display: inline-flex;
+        align-items: center;
+        padding: 1rem 2rem;
+        background: #e74c3c;
+        color: white;
+        text-decoration: none;
+        border-radius: 50px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+    }
+
+    .cta-button:hover {
+        background: #c0392b;
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(231, 76, 60, 0.3);
+    }
+
+    .cta-button i {
+        margin-left: 0.8rem;
+        transition: transform 0.3s ease;
+    }
+
+    .cta-button:hover i {
+        transform: translateX(3px);
+    }
+
+    @@media (max-width: 768px) {
+        .about-container {
+            padding: 2rem 1rem;
+        }
+
+        .about-header h1 {
+            font-size: 2rem;
+        }
+    }
+    
+    
+</style>

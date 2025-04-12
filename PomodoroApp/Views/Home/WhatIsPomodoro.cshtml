@@ -1,0 +1,363 @@
+﻿@{
+    ViewData["Title"] = "What is Pomodoro?";
+}
+
+<div class="pomodoro-guide">
+    <div class="guide-header">
+        <h1>The Pomodoro Technique</h1>
+        <p class="lead">Master Your Time, Boost Your Productivity</p>
+    </div>
+
+    <div class="technique-hero">
+        <img src="/images/image1.webp" alt="Pomodoro Technique Infographic" class="technique-infographic">
+        <div class="hero-caption">Developed by Francesco Cirillo in the late 1980s</div>
+    </div>
+
+    <div class="pomodoro-steps">
+        <!-- Step 1 -->
+        <div class="step-card">
+            <div class="step-header">
+                <div class="step-number">1</div>
+                <h3>Plan Your Tasks</h3>
+            </div>
+            <div class="step-content">
+                <div class="time-display">
+                    <i class="fas fa-clipboard-list"></i>
+                </div>
+                <p>Break work into 25-minute intervals. Estimate required Pomodoros.</p>
+            </div>
+        </div>
+
+        <!-- Step 2 -->
+        <div class="step-card highlight">
+            <div class="step-header">
+                <div class="step-number">2</div>
+                <h3>Focus Session</h3>
+            </div>
+            <div class="step-content">
+                <div class="time-display focus">
+                    <span>25:00</span>
+                    <small>Focused Work</small>
+                </div>
+                <p>Work distraction-free. No multitasking!</p>
+            </div>
+        </div>
+
+        <!-- Step 3 -->
+        <div class="step-card">
+            <div class="step-header">
+                <div class="step-number">3</div>
+                <h3>Take a Break</h3>
+            </div>
+            <div class="step-content">
+                <div class="time-display break">
+                    <span>05:00</span>
+                    <small>Mental Reset</small>
+                </div>
+                <p>Step away, stretch, hydrate, or relax.</p>
+            </div>
+        </div>
+
+        <!-- Step 4 -->
+        <div class="step-card">
+            <div class="step-header">
+                <div class="step-number">4</div>
+                <h3>Repeat & Recharge</h3>
+            </div>
+            <div class="step-content">
+                <div class="cycle-display">
+                    <div class="pom-counter">4×</div>
+                    <div class="long-break">
+                        <span>15-30</span>
+                        <small>Extended Break</small>
+                    </div>
+                </div>
+                <p>After 4 Pomodoros, take a longer break.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="benefits-section">
+        <h2>Why It Works</h2>
+        <div class="benefits-grid">
+            <div class="benefit-card">
+                <i class="fas fa-brain"></i>
+                <h3>Fights Mental Fatigue</h3>
+                <p>Regular breaks maintain peak cognitive performance</p>
+            </div>
+            <div class="benefit-card">
+                <i class="fas fa-bolt"></i>
+                <h3>Boosts Motivation</h3>
+                <p>Short deadlines create productive urgency</p>
+            </div>
+            <div class="benefit-card">
+                <i class="fas fa-chart-line"></i>
+                <h3>Tracks Progress</h3>
+                <p>Visible completion of Pomodoros builds momentum</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Add to existing CSS */
+    .pomodoro-guide {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem 2rem;
+    }
+
+    .guide-header {
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+
+        .guide-header h1 {
+            color: #e74c3c;
+            font-size: 2.8rem;
+            margin-bottom: 1rem;
+        }
+
+        .guide-header .lead {
+            color: #666;
+            font-size: 1.2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+    .technique-hero {
+        margin: 3rem 0;
+        text-align: center;
+    }
+
+    .technique-infographic {
+        max-width: 800px;
+        width: 100%;
+        border-radius: 15px;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        margin: 0 auto;
+    }
+
+    .hero-caption {
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 1rem;
+        font-style: italic;
+    }
+
+    .technique-steps {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 2rem;
+        margin: 4rem 0;
+    }
+
+    .step-card {
+        background: white;
+        padding: 2rem;
+        border-radius: 15px;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        text-align: center;
+        transition: transform 0.3s ease;
+    }
+
+        .step-card:hover {
+            transform: translateY(-5px);
+        }
+
+    .step-icon {
+        width: 60px;
+        height: 60px;
+        background: #fce4e1;
+        border-radius: 50%;
+        margin: 0 auto 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .step-icon i {
+            color: #e74c3c;
+            font-size: 1.5rem;
+        }
+
+    .timing-box {
+        margin: 2rem 0;
+    }
+
+    .timing-display {
+        padding: 1.5rem;
+        border-radius: 10px;
+        background: #f8f9fa;
+        display: inline-block;
+    }
+
+        .timing-display.break {
+            background: #e8f4fc;
+            border: 2px solid #3498db;
+        }
+
+    .time {
+        display: block;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #e74c3c;
+    }
+
+    .break .time {
+        color: #3498db;
+    }
+
+    .label {
+        color: #666;
+        font-size: 0.9rem;
+    }
+
+    .cycle-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+        margin: 2rem 0;
+    }
+
+    .pom-counter {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #e74c3c;
+    }
+
+    .long-break {
+        text-align: center;
+    }
+
+    .benefits-section {
+        margin: 4rem 0;
+        text-align: center;
+    }
+
+    .benefits-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+        margin-top: 2rem;
+    }
+
+    .benefit-card {
+        padding: 2rem;
+        background: white;
+        border-radius: 10px;
+        box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    }
+
+        .benefit-card i {
+            font-size: 2rem;
+            color: #e74c3c;
+            margin-bottom: 1rem;
+        }
+
+    @@media (max-width: 768px) {
+        .pomodoro-guide {
+            padding: 2rem 1rem;
+        }
+
+        .guide-header h1 {
+            font-size: 2rem;
+        }
+    }
+
+    /*last*/
+
+    .pomodoro-steps {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1.5rem;
+        padding: 2rem 0;
+    }
+
+    .step-card {
+        background: white;
+        border-radius: 12px;
+        padding: 1.5rem;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+        border: 1px solid #eee;
+    }
+
+    .step-header {
+        border-bottom: 2px solid #f1f1f1;
+        padding-bottom: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .step-number {
+        width: 32px;
+        height: 32px;
+        background: #e74c3c;
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+
+    .time-display {
+        background: #f8f9fa;
+        border-radius: 8px;
+        padding: 1rem;
+        margin: 1rem 0;
+        text-align: center;
+    }
+
+        .time-display.focus {
+            background: #fce4e1;
+            border: 2px solid #e74c3c;
+        }
+
+        .time-display.break {
+            background: #e8f4fc;
+            border: 2px solid #3498db;
+        }
+
+        .time-display span {
+            display: block;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
+    .cycle-display {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .pom-counter {
+        font-size: 1.8rem;
+        font-weight: bold;
+        color: #e74c3c;
+    }
+
+    .long-break span {
+        color: #3498db;
+        font-weight: 600;
+    }
+
+    @@media (max-width: 1200px) {
+        .pomodoro-steps
+
+    {
+        grid-template-columns: 1fr;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .step-card {
+        margin-bottom: 1.5rem;
+    }
+
+    }
+</style>
+

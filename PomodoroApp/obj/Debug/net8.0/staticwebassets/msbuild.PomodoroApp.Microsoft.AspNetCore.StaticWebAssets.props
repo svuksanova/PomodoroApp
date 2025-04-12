@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bls25mlb3q</Fingerprint>
-      <Integrity>P0qAy9Y71NgGEPJBkhX95Ness07aiRAWhBB6007t3Ik=</Integrity>
+      <Fingerprint>b16lhwghli</Fingerprint>
+      <Integrity>MX34iYKXbiu8B00nsqyaJ2YziGVCGwNxL1NAwyRLIFU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -36,6 +36,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\image1.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PomodoroApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PomodoroApp</BasePath>
+      <RelativePath>images/image1.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zt6ngielt7</Fingerprint>
+      <Integrity>qcXeeFo63lyqejTjIvDwG6LjAaXAsmpX9Z5eqxyzg/I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\image1.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\timer.js'))">
       <SourceType>Package</SourceType>
       <SourceId>PomodoroApp</SourceId>
@@ -48,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wp3vhncucf</Fingerprint>
-      <Integrity>bC7JOI0cXa2wcBrBmVzg176O8Xcs3OWbSB1D5ZacUPY=</Integrity>
+      <Fingerprint>9c9b5lk4sc</Fingerprint>
+      <Integrity>Cd05JBk1GDpOTRdT4iFFVutEAke/MAgawybl2i8iCAI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\timer.js'))</OriginalItemSpec>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-PomodoroApp-247e989c-c16c-40a2-8d9a-93e58d2c8efa")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PomodoroApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ef744db41a7d0a2a17d43723c60549ff154099")]
 [assembly: System.Reflection.AssemblyProductAttribute("PomodoroApp")]
