@@ -6,7 +6,9 @@
     "\\PomodoroApp\\Models",
     "\\PomodoroApp\\Views",
     "\\PomodoroApp\\Views\\Home",
-    "\\PomodoroApp\\Views\\Shared"
+    "\\PomodoroApp\\Views\\Shared",
+    "\\PomodoroApp\\wwwroot",
+    "\\PomodoroApp\\wwwroot\\js"
   ],
   "SelectedNode": "\\PomodoroApp.sln",
   "PreviewInSolutionExplorer": false

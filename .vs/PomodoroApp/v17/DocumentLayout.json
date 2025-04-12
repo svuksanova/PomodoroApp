@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\Integrirani\\PomodoroApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\whatispomodoro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\whatispomodoro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,48 +15,20 @@
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\whatispomodoro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\whatispomodoro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\whatispomodoro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\whatispomodoro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,24 +39,60 @@
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\home\\whatispomodoro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\home\\whatispomodoro.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\models\\pomodorosession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\pomodoroapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\pomodoroapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|d:\\integrirani\\pomodoroapp\\pomodoroapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44BA734B-0BD0-436C-A7E1-7A7978DEA465}|PomodoroApp\\PomodoroApp.csproj|solutionrelative:pomodoroapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,33 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Program.cs",
-              "RelativeDocumentMoniker": "PomodoroApp\\Program.cs",
-              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Program.cs",
-              "RelativeToolTip": "PomodoroApp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAhwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T14:51:08.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PomodoroApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PomodoroApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:06:20.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\Home\\About.cshtml",
@@ -144,38 +118,35 @@
               "RelativeToolTip": "PomodoroApp\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAGkAAAAAAAAAAAAAAHwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:59:08.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:59:08.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PomodoroApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T13:03:53.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:03:53.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PomodoroApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwDcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T13:29:59.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:29:59.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\Shared\\_LoginPartial.cshtml",
@@ -183,51 +154,96 @@
               "RelativeToolTip": "PomodoroApp\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T13:56:28.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:56:28.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "timer.js",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\js\\timer.js",
               "RelativeDocumentMoniker": "PomodoroApp\\wwwroot\\js\\timer.js",
               "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\js\\timer.js",
               "RelativeToolTip": "PomodoroApp\\wwwroot\\js\\timer.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-12T11:12:48.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:12:48.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WhatIsPomodoro.cshtml",
-              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
-              "RelativeDocumentMoniker": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
-              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
-              "RelativeToolTip": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
-              "ViewState": "AgIAANcAAAAAAAAAAAAAAOoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T16:41:09.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PomodoroApp\\wwwroot\\css\\site.css",
               "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\wwwroot\\css\\site.css",
               "RelativeToolTip": "PomodoroApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAHgBAAAAAAAAAAAgwIUBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIABAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-04-12T13:17:38.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "WhatIsPomodoro.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
+              "RelativeDocumentMoniker": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
+              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
+              "RelativeToolTip": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAAAOoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T16:41:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T14:31:36.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T14:22:42.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PomodoroApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PomodoroApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T15:06:20.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Program.cs",
+              "RelativeDocumentMoniker": "PomodoroApp\\Program.cs",
+              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Program.cs",
+              "RelativeToolTip": "PomodoroApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:51:08.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Controllers\\HomeController.cs",
@@ -235,12 +251,11 @@
               "RelativeToolTip": "PomodoroApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:02:45.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:02:45.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "WhatIsPomodoro.cshtml.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml.cs",
@@ -248,12 +263,11 @@
               "RelativeToolTip": "PomodoroApp\\Views\\Home\\WhatIsPomodoro.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T16:48:15.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T16:48:15.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Views\\_ViewStart.cshtml",
@@ -261,12 +275,11 @@
               "RelativeToolTip": "PomodoroApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:06:30.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:06:30.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PomodoroSession.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Models\\PomodoroSession.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Models\\PomodoroSession.cs",
@@ -274,12 +287,11 @@
               "RelativeToolTip": "PomodoroApp\\Models\\PomodoroSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:10:12.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:10:12.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Data\\ApplicationDbContext.cs",
@@ -287,12 +299,11 @@
               "RelativeToolTip": "PomodoroApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:52:14.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:52:14.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -300,12 +311,11 @@
               "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAASwG4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:37:36.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:37:36.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -313,12 +323,11 @@
               "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T15:09:23.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:09:23.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
@@ -326,34 +335,7 @@
               "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwGsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:18:54.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:31:36.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "PomodoroApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T14:22:42.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:18:54.54Z"
             },
             {
               "$type": "Document",
@@ -365,12 +347,11 @@
               "RelativeToolTip": "PomodoroApp\\Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T15:10:08.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T15:10:08.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "PomodoroApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -394,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\Integrirani\\PomodoroApp\\PomodoroApp\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "PomodoroApp\\ScaffoldingReadMe.txt",

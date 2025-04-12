@@ -1,6 +1,17 @@
 ﻿@{
     ViewData["Title"] = "PomodoroPro";
 }
+<!-- Add this wrapper div -->
+<div class="app-container">
+    <!-- Todo List Section -->
+    <div class="todo-section">
+        <h3><i class="fas fa-tasks"></i> Today's Tasks</h3>
+        <div class="todo-input">
+            <input type="text" id="taskInput" placeholder="Add new task...">
+            <button id="addTask"><i class="fas fa-plus"></i></button>
+        </div>
+        <ul id="taskList"></ul>
+    </div>
 
 <div class="pomodoro-container">
     <div class="timer-header">
@@ -29,4 +40,45 @@
 
 @section Scripts {
     <script src="~/js/timer.js"></script>
+        <!-- Add Todo Script -->
+        <script>
+                document.addEventListener('DOMContentLoaded', () => {
+                    const taskInput = document.getElementById('taskInput');
+                    const addTask = document.getElementById('addTask');
+                    const taskList = document.getElementById('taskList');
+
+                function createTask(text) {
+                    const li = document.createElement('li');
+                    li.innerHTML = `
+                        <button class="check-btn"><i class="far fa-circle"></i></button>
+                        <span class="task-text">${text}</span>
+                        <button class="delete-task"><i class="fas fa-trash"></i></button>
+                    `;
+
+                    const checkBtn = li.querySelector('.check-btn');
+                    const taskText = li.querySelector('.task-text');
+
+                    checkBtn.addEventListener('click', () => {
+                        li.classList.toggle('completed');
+                        checkBtn.innerHTML = li.classList.contains('completed')
+                            ? '<i class="fas fa-check-circle"></i>'
+                            : '<i class="far fa-circle"></i>';
+                });
+
+                li.querySelector('.delete-task').addEventListener('click', () => li.remove());
+                return li;
+            }
+
+                    addTask.addEventListener('click', () => {
+                        if (taskInput.value.trim()) {
+                            taskList.appendChild(createTask(taskInput.value.trim()));
+                            taskInput.value = '';
+                        }
+                    });
+
+                    taskInput.addEventListener('keypress', (e) => {
+                        if (e.key === 'Enter') addTask.click();
+                    });
+                });
+        </script>
 }
