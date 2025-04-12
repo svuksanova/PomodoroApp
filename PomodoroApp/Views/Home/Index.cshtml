@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "PomodoroPro";
+}
+
+<div class="pomodoro-container">
+    <div class="timer-header">
+        <h1>PomodoroPro</h1>
+        <p>Stay focused. Be productive.</p>
+    </div>
+
+    <div class="timer-circle">
+        <div class="timer-progress"></div>
+        <div class="timer-display" id="timer-display">25:00</div>
+    </div>
+
+    <div class="timer-controls">
+        <button class="timer-btn timer-btn-start" id="start-btn">Start</button>
+        <button class="timer-btn timer-btn-pause" id="pause-btn">Pause</button>
+        <button class="timer-btn timer-btn-reset" id="reset-btn">Reset</button>
+    </div>
+
+    <div class="session-history">
+        <h3>Session History</h3>
+        <ul id="history-list">
+            <!-- History items will be added here by JavaScript -->
+        </ul>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/timer.js"></script>
+}

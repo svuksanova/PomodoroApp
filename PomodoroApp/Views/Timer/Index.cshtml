@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Professional Pomodoro Timer";
+}
+
+@section Styles {
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Fira+Code&display=swap" rel="stylesheet">
+}
+
+<div class="main-content">
+    
+        <div class="pomodoro-container">
+            <div class="timer-header">
+                <h1>PomodoroPro</h1>
+                <p class="subtitle">Stay focused. Be productive.</p>
+            </div>
+
+            <div class="timer-circle">
+                <div class="timer-progress"></div>
+                <div class="timer-display" id="timer-display">25:00</div>
+            </div>
+
+            <div class="timer-controls">
+                <button class="timer-btn timer-btn-start" id="start-btn">Start</button>
+                <button class="timer-btn timer-btn-pause" id="pause-btn">Pause</button>
+                <button class="timer-btn timer-btn-reset" id="reset-btn">Reset</button>
+            </div>
+
+            <div class="session-history">
+                <h3>Session History</h3>
+                <!-- History items will appear here -->
+            </div>
+
+            <footer>
+                © 2025 - PomodoroApp - <a href="/Privacy">Privacy</a>
+            </footer>
+        </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/time.js"></script>
+}

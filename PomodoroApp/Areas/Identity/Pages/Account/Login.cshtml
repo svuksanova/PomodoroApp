@@ -1,0 +1,46 @@
+﻿@page
+@model LoginModel
+@{
+    ViewData["Title"] = "Welcome to PomodoroPro";
+}
+
+<div class="auth-container">
+    <div class="pomodoro-card">
+        <h1 class="brand-title">PomodoroPro</h1>
+        <p class="brand-subtitle">Focus. Productivity. Success.</p>
+
+        <form id="account" method="post">
+            <div class="form-group">
+                <label asp-for="Input.Email">Email</label>
+                <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                <span asp-validation-for="Input.Email" class="validation-message"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Input.Password">Password</label>
+                <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" />
+                <span asp-validation-for="Input.Password" class="validation-message"></span>
+            </div>
+
+            <div class="form-options">
+                <div class="remember-me">
+                    <input asp-for="Input.RememberMe" />
+                    <label asp-for="Input.RememberMe">Keep me logged in</label>
+                </div>
+                <a id="forgot-password" asp-page="./ForgotPassword">Forgot password?</a>
+            </div>
+
+            <button type="submit" class="btn-primary">
+                <i class="fas fa-sign-in-alt"></i> Start Focusing
+            </button>
+
+            <div class="auth-links">
+                New to PomodoroPro? <a asp-page="./Register">Create account</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
